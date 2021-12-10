@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 test master
+=======
+test
+>>>>>>> dev
